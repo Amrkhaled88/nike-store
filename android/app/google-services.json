@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708646740023",
+    "project_id": "nike-auth-app",
+    "storage_bucket": "nike-auth-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708646740023:android:e948cf710104223a1f9fb2",
+        "android_client_info": {
+          "package_name": "com.example.nike_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708646740023-gt3ltaek922tml397icpbtvt5jmlevka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmeYexyLPALnChOBLz2pYGxRb852LkM-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708646740023-gt3ltaek922tml397icpbtvt5jmlevka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
